@@ -1,5 +1,5 @@
 # IPTL_labs_polito
-A collection of labs from the `Internet Performance and Throubleshooting Lab` course.
+A collection of labs from the `Internet Performance and Troubleshooting Lab` course.
 
 ### LAB_1 - `IPv4 Fragmentation`
 
